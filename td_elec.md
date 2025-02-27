@@ -1,7 +1,3 @@
-# Réponses détaillées aux exercices sur les transformateurs
-
----
-
 ## **Exercice 1 : Transformateur ferroviaire monophasé**
 
 ### **1. Nombre de spires du primaire \(N_1\)**
@@ -198,8 +194,3 @@ U_{\text{ligne}} = 400 - \sqrt{3} \cdot \Delta U_{\text{phase}} \approx \boxed{3
 \[
 \eta = \frac{P_2}{P_2 + \text{Pertes}} = \frac{200\,000}{200\,000 + 3\,900} \approx \boxed{98.1\%}
 \]  
-
----
-
-**Conclusion générale** :  
-Les calculs respectent les principes électromagnétiques des transformateurs. Les approximations et hypothèses (comme le transformateur idéal pour l'exercice 1) sont justifiées par les données fournies. Les écarts mineurs proviennent des arrondis numériques.
