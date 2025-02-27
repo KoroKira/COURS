@@ -1,0 +1,29 @@
+https://moodle.icam.fr/my/courses.php
+
+https://moodle.icam.fr/course/view.php?id=1362 Convertisseurs de puissance et machines électriques
+https://moodle.icam.fr/course/view.php?id=1367 Dynamique
+https://moodle.icam.fr/course/view.php?id=1287 Elasticité
+https://moodle.icam.fr/course/view.php?id=1365 Eléments finis
+https://moodle.icam.fr/course/view.php?id=1459 Espagnol
+https://moodle.icam.fr/course/view.php?id=1709 Fondamentaux, paramètres physiques & composants
+https://moodle.icam.fr/course/view.php?id=1238 Harmonisation en informatique
+https://moodle.icam.fr/course/view.php?id=1822 Harmonisation en mécanique
+https://moodle.icam.fr/course/view.php?id=1865 Intelligence artificielle
+https://moodle.icam.fr/course/view.php?id=1370 Internet des objets
+https://moodle.icam.fr/course/view.php?id=835 Matériaux 1/2
+https://moodle.icam.fr/course/view.php?id=838 Matériaux 2/2
+https://moodle.icam.fr/course/view.php?id=1263 Mécanique des Fluides
+https://moodle.icam.fr/course/view.php?id=1269 Mécanique des structures
+https://moodle.icam.fr/course/view.php?id=840 Mission Expertise
+https://moodle.icam.fr/course/view.php?id=1363 Modélisation, analyse et commande des systèmes dynamiques
+https://moodle.icam.fr/course/view.php?id=830 Outils de la performance industrielle et RSE
+https://moodle.icam.fr/course/view.php?id=1458 Programme, grammaire, exercices, vocabulaire
+https://moodle.icam.fr/course/view.php?id=1736 Python - Auto-apprentissage
+https://moodle.icam.fr/course/view.php?id=1359 Réseau de puissance & distribution
+https://moodle.icam.fr/course/view.php?id=1360 Semaine écologie intégrale
+https://moodle.icam.fr/course/view.php?id=1708 Systèmes de faible puissance
+https://moodle.icam.fr/course/view.php?id=1361 Transferts thermiques
+https://moodle.icam.fr/course/view.php?id=1435 Algorithmie
+https://moodle.icam.fr/course/view.php?id=825 Analyse environnementale
+https://moodle.icam.fr/course/view.php?id=827 Atelier Arts & Techniques
+https://moodle.icam.fr/course/view.php?id=1450 Arts créatifs
