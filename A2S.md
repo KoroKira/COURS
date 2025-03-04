@@ -206,3 +206,93 @@ Avantages:
 Toutes les portes fonctionnent à la vitesse liée à la technologie (de l'ordre de la nanoseconde)
 Toutes les bascules fonctionnent à la vitesse de l'horloge système (100MHz en TP)
 Et surtout, tout fonctionne en parallèle
+
+
+Imaginez: 
+
+Ensemble de portes et de bascules (parfois plusieurs millions) (50 000 bascules en TP)
+Cablées à la demande pour une fonction particulière (horloge du TP EN)
+Cablé/configuré par transfert en mémoire RAM
+(On a 2 catégorie de FPGA: ceux en RAM et ceux en Flash)
+
+Circuit logique programmable (PLD)
+CLB : Configurable Logic Block (LUT + Bascule FF)
+Quelques milliers à quelques millions de CLB
+Matrice d'interconnexion configurables
+Basé sur des cellules SRAM (ultra rapide)
+
+Exemple d'utilisation:
+Missile Tomahawk (Raytheon)
+Long Range Navy Cruise Missile (Lockheed Martin)
+
+Moniteur ordinateur: Pivoting montor (landscape/portrait) (Dell)
+
+
+
+Liens entre les domaines:
+
+FPGA + microprocesseur + périphériques 
+microprocesseur - soft core: NIOS, microBlaze, RISK-V
+microprocesseurs intégrés:
+    Power PC ou ARM: le Zynq
+
+PSOC Cypress: Programmable System On Chip
+microprocesseur + FPGA + Analogique (ampli, CAN, ...)
+
+FPGA: domaines d'utilisation
+
+Electronique numérique
+Télécommunication; transport, traitement signaux
+Réalisation de fonctions en vrai parallèle
+Prototypage ASIC ou Circuit intégré (NVidia)
+Test architecture processeur (graphique ?)
+Reproduction ou émulation de circuits anciens
+Rétro-gaming (Mister FPGA)
+Réseau de neurones (IA)
+
+
+Marché:
+
+Xilinx (50%) (CA de environ 3 000 millions de dollars), racheté par AMD pour 50 milliards de dollars en 2022
+Lattice SC (6;4%) (CA de 400 millions de dollars)
+QuickLogic (1,5%) (CA de 100 millions de dollars)
+Altera (33%) Racheté par INTEL pour 15 milliards de dollars en 2015
+Achronix SC
+
+
+Chaine de développement:
+
+HDL -> Netlist -> Bitstream -> ADAPT => FPGA
+
+Problème: Outils automatiques, Liées au fabriquants, Totalement obscurs
+
+
+Langages:
+
+Chaque fabriquant utilise son propre langage
+==> Plusieurs dizaines de langages différents
+
+Schéma graphiques
+
+Puis ABEL-HDL, Verilog
+Puis MOD ==> VHDL
+
+VHDL (langage ADA)
+
+
+
+
+Résumé:
+
+Très forte puissance de calculs
+Fonctionnement massivement parallèle
+Très forte intégration
+Très grande complexité
+Copie ou modification très rapide
+
+Mais:
+Étude et développement complexe
+Circuit intégrés couteux
+Attention lors des manipulations !
+
+Demain ? Intel/AMD
