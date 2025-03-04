@@ -1,5 +1,5 @@
 # Cours A3.6 : Métallurgie Avancée  
-*Par Guilhem, inspiré du cours original A36-Métallurgie (A2026)*  
+*Par Guilhem, inspiré du cours original A36-Métallurgie (A2027)*  
 
 ---
 
@@ -211,3 +211,5 @@ La composition en B de tout ce qui est liquide
 
 Règle des segments inverses: si on a un segment qui est plus long que l'autre, alors la phase qui est plus proche du segment le plus long est plus présente. 
 
+
+Composé intermétallique : une barre verticale fixe pour toute température dans le diagramme. 

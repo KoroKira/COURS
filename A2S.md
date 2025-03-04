@@ -103,3 +103,106 @@ une FSM est la donnée d'un quintuplet A: (Q, Σ, δ, q0, F) où :
 - q0 est l'état initial
 - F est un ensemble d'états finaux
 
+
+
+
+
+
+
+
+### Technologie (API, µC, FPGA,...)
+
+API : Application Programming Interface
+µC : microcontrôleur
+FPGA : Field Programmable Gate Array
+
+
+
+Technologie microcontroleur: présentation
+
+Système informatique entièrement réalisé sur un circuit intégré (circuit de silicium dans lequel on a intégré les éléments nécéssaires pour les rendre opérationnels)
+
+Système informatique: composition ?
+
+Mémoire vive + mémoire morte
+Interface pour les entrées sorties
+    Numérique: TOR, Comptage, fréquence, ...
+    Analogique; CAN, CNA
+Interface de communication
+    Liaisons séries synchrone ou asynchrone
+Base de temps, Timer, ...
+Oscillateur, alimentation
+Programmation, débug
+
+Histoire: 
+
+années 1980 environ, plus de transsitors: 
+- plus de puissance de calculs
+- plus de fonctionnalités, plus d'intégrations
+
+Intégration d'un microprocesseur +:
+- Mémoires (RAM, ROM, EEPROM)
+- Horloge
+- GPIO = E/S
+- Communications (I2C, SPI, UART, USB, Ethernet, ...)
+- Timer (compteurs, OC, IC, PWM, Watchdog, ...)
+- Convertisseurs (ADC, DAC, Comparateur, ...)
+
+
+Carte Arduino:
+
+Carte électronique avec 2 microcontroleurs:
+1x ATMega16U2-MU = interface USB
+1x Atmel/Microchip ATMega328-PU
+
+Taille: 8 bits
+ISA: spécifique Atmel
+Vitesse: 16 MHz
+Mémoire: 32 Ko de flash, 2 Ko de SRAM, 1 Ko d'EEPROM
+Timer: 2x8 bits, 1x16 bits, 6xPWM
+Convertisseur: 1x10 bits, 6 canaux
+Communication: 1xI2C, 1xSPI, 1xUART
+
+Caractéristiques de la technologie de microcontroleurs:
+
+Taille: 4-64 bits
+Capacité mémoire: 
+    - RAM: quelques octets à plusieurs kilo-octets
+    - Flash: quelques kilo-octets à plusieurs méga-octets
+
+Nombre de broches: nb entrées/sorties. de 6 à plusieurs centaines
+
+Le marché est à moitié sur le 16 bits (info le plus important à retenir)
+
+Les coûts:
+
+Quelques centimes à plusieurs milliers d'euros
+
+C = SBT (pour le fabricant)
+Cout = Surface de silicium * nombre de broches * gamme température (tri ?)
+
+C = SBT/Q (pour le client)
+Q: facteur lié à la quantité (10 à 50 ou 100 ?)
+
+
+STM32F411RE (en TP)
+
+ARM Cortex-M4: microprocesseur 32 bits
+Vitesse: 100 MHz
+Mémoire: 512 Ko de flash, 128 Ko de SRAM
+Timer: 3x16 bits, 2x32 bits, 12xPWM
+Convertisseur: 2x12 bits, 16 canaux
+Communication: 3xI2C, 3xSPI, 3xUART, 2xCAN, 2xUSB, 1xETH
+
+
+
+Technologie FPGA: présentation
+
+Schéma électronique numérique:
+Des portes universelles (NAND/NOR)
+Des bascules universelles (D/T)
+
+Avantages:
+Toutes les portes fonctionnent à la vitesse liée à la technologie (de l'ordre de la nanoseconde)
+Toutes les bascules fonctionnent à la vitesse de l'horloge système (100MHz en TP)
+Et surtout, tout fonctionne en parallèle
