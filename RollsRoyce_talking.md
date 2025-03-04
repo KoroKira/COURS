@@ -44,3 +44,8 @@ Je vais faire la rédaction pour les 4 je pense ca sera le plus simple.
 
 ### Sujets retenus
 
+ACTU CHEZ STARLINK
+
+musk satellites are raining out of orbit at a rate of 120 per month and each one produce 30 kg of aluminium oxide which eat away at the ozone layer and these oxides have increased 8 folds in the atmosphere since 2016
+
+agupubs.onlinelibrairy.wiley.com/doi/10.1029/2024GL109280

@@ -296,3 +296,7 @@ Circuit intégrés couteux
 Attention lors des manipulations !
 
 Demain ? Intel/AMD
+
+
+3 minis projets: machines à états API, microprocesseur, FPGA
+1 TD
