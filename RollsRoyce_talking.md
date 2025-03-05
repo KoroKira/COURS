@@ -104,3 +104,78 @@ Finally, there is the concept of "space harpoon", which is a device that can be 
 In conclusion, the problem of space debris is a growing concern for the aerospace industry, and it is important to develop new technologies and systems to mitigate this issue. The satellite waste is a very important subject, and it is important to understand how the company manage the whole lifecycle of a satellite. There is no single solution to this problem, but there are promising technologies that are being developed to address this issue. It is important to continue to research and develop new technologies to ensure the sustainability of space exploration and satellite operations.
 
 I hope you have enjoyed my presentation, and that you have learned something new today. Thank you for your attention, and if you have any questions, i will be happy to answer them.
+
+
+14 minutes en moyenne sur 3 essais
+
+
+### REDACTION AMELIOREE
+
+
+**Full Presentation Script: "Satellite Waste – Managing the Cosmic Lifecycle"**  
+*(20-minute version for a mixed audience of experts and non-specialists)*  
+
+---
+
+**Opening (2 minutes):**  
+"Good morning, everyone! My name is [Your Name], and I’d like to start with a confession: ever since I was a child, I’ve been obsessed with space. The stars, the planets, the sheer vastness of it all—it’s why I now work at Thales Alenia Space, even if my role there involves more coding than rocket science. Today, I want to talk about a topic that’s critical to the future of space exploration: **satellite waste**.  
+
+You see, space isn’t just the 'final frontier'—it’s also becoming a cosmic junkyard. Right now, there are over **25,000 human-made objects** orbiting Earth. Only 40% of these are active satellites. The rest? Dead satellites, rocket parts, and fragments from collisions. If we don’t address this, we risk turning space into a minefield of debris, threatening everything from GPS to weather forecasts. Let’s explore how we got here—and what we’re doing about it."  
+
+---
+
+**Part 1: The Growing Problem of Space Debris (4 minutes):**  
+"Imagine you’re driving on a highway. Now imagine that highway has no rules—no speed limits, no lanes, and everyone abandons their cars when they run out of gas. That’s essentially what’s happening in Earth’s orbit.  
+
+The problem started small. In 1961, just four years after Sputnik, a U.S. Naval researcher named E.E. Peterkin predicted that space would become overcrowded. Fast-forward to 1978, when NASA scientist Donald Kessler warned that collisions could create a chain reaction, generating so much debris that certain orbits would become unusable. We call this the **Kessler Syndrome**.  
+
+And it’s not just theory. In 2009, a defunct Russian satellite collided with an active American one at 26,000 mph. The impact created over **2,000 pieces of debris**, each capable of destroying another satellite. Today, the International Space Station regularly dodges debris. In 2022, it had to perform *32 emergency maneuvers* to avoid collisions.  
+
+But why should this matter to *you*? Well, space debris doesn’t just threaten astronauts. It risks disrupting the satellites that power your smartphone’s GPS, streaming services, and even disaster response systems."  
+
+---
+
+**Part 2: The Life and Death of a Satellite (5 minutes):**  
+"Let’s break down a satellite’s lifecycle. It begins with a **launch**—a fiery ride atop a rocket to its designated orbit. Once there, it might spend 5 to 20 years providing services like weather monitoring, telecommunications, or Earth observation.  
+
+But how does a satellite *die*? There are three main killers:  
+1. **Fuel starvation**: Satellites need fuel to maintain their orbit. Once it’s gone, they drift uncontrollably.  
+2. **Radiation damage**: Space is harsh. Over time, radiation fries electronics.  
+3. **Obsolescence**: Technology evolves fast. A satellite designed in 2010 might be useless by 2030.  
+
+Now, here’s where things get interesting. Not all satellites are built the same. Companies like Airbus or Thales design **high-end satellites**—custom-built, rigorously tested, and meant to last 15–20 years. They’re like luxury cars: expensive but durable.  
+
+On the flip side, companies launching **mega-constellations**—like Starlink—take a different approach. Their satellites are mass-produced, cheaper, and replaced every 5–7 years. Think of them as bicycles: not built to last, but easy to replace. This approach has democratized internet access globally, but it’s also flooding orbit with short-lived hardware."  
+
+---
+
+**Part 3: End-of-Life Management – The Good, the Bad, and the Ugly (5 minutes):**  
+"So, what happens when a satellite dies? There are three options—but none are perfect.  
+
+**Option 1: Controlled Reentry**. Guide the satellite to burn up in Earth’s atmosphere. Sounds great, right? Unfortunately, recent studies reveal a catch. When satellites like Starlink’s reenter, they release **aluminum oxide particles**. A single Starlink satellite sheds about 30 kg of this material. Multiply that by 120 satellites reentering *every month*, and you get an **eightfold increase** in atmospheric aluminum since 2016. Why does this matter? Aluminum oxide erodes the ozone layer—the same layer we’ve worked so hard to repair since banning CFCs.  
+
+**Option 2: The Graveyard Orbit**. For satellites in geostationary orbit (GEO), we boost them 300 km higher into a 'retirement home'. But this isn’t a solution—it’s a delay tactic. These satellites will haunt that orbit for centuries.  
+
+**Option 3: Do Nothing**. Abandon the satellite. Today, over **36,000 pieces of debris** larger than 10 cm are zipping around Earth. Even a 1 cm fragment can hit with the force of a hand grenade. In 2021, a debris strike punched a hole in the International Space Station’s robotic arm. Imagine that hitting a crewed module."  
+
+---
+
+**Part 4: Innovating for a Sustainable Future (3 minutes):**  
+"Now for the good news: engineers and policymakers are rising to the challenge. Let’s look at three groundbreaking solutions.  
+
+**First: Active Debris Removal (ADR)**. Imagine a cosmic garbage truck. The European Space Agency’s **ClearSpace-1 mission**, launching in 2026, will do just that. Equipped with robotic arms, it’ll capture debris and drag it into the atmosphere to burn up. Other ideas? Lasers to nudge debris into lower orbits, or harpoons to spear and retrieve it.  
+
+**Second: Design for Demise**. Instead of aluminum, companies are testing materials that fully vaporize during reentry. The ESA’s **EcoDesign Initiative** now mandates sustainability in satellite design. At Thales, we’re prototyping alloys that disappear like sugar in hot tea.  
+
+**Third: On-Orbit Servicing**. Why trash a satellite when you can fix it? Northrop Grumman’s **Mission Extension Vehicle** docks with aging satellites to refuel or repair them. It’s like a AAA service call—but in zero gravity!"  
+
+---
+
+**Closing (1 minute):**  
+"Space is a **shared resource**, much like our oceans or atmosphere. But today, only 60% of satellites follow international guidelines to deorbit within 25 years. We need global standards—agreements that balance innovation with responsibility.  
+
+The choices we make today will determine whether future generations inherit a usable orbital environment or a wasteland of debris. As someone who’s dreamed of space since childhood, I’m optimistic. With collaboration, creativity, and a commitment to sustainability, we can keep the stars within reach.  
+
+Thank you—and I’d love to hear your thoughts or questions!"  
+
+10 minutes en moyenne sur 3 essais
