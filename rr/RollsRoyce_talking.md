@@ -179,3 +179,203 @@ The choices we make today will determine whether future generations inherit a us
 Thank you—and I’d love to hear your thoughts or questions!"  
 
 10 minutes en moyenne sur 3 essais
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### **Title: Space Trash: How We’re Cluttering the Final Frontier (and What We Can Do About It)**
+
+---
+
+### **1. Introduction: From Starry-Eyed Kid to Satellite Developer**  
+- **Who am I?**  
+  - A space-obsessed software dev at **Thales Alenia Space** (TAS).  
+  - *Funny quip:* "I code satellites, not sci-fi lasers—but hey, at least I’m in the game!"  
+- **Why this topic?**  
+  - Satellites are multiplying like rabbits, and we’re running out of space… literally.  
+
+---
+
+### **2. The Problem: Space is a Crowded Parking Lot**  
+- **Historical foresight:**  
+  - **1961**: E.E. Peterkin (U.S. Naval Research Lab) predicted space overcrowding: "318 new satellites/year!"  
+  - **1978**: NASA’s Kessler Syndrome—imagine cosmic bumper cars creating endless debris.  
+- **Today’s reality:**  
+  - **~25,000 objects** in orbit: 11,884 active vs. 13,116 dead satellites/debris.  
+  - *Analogy:* Imagine launching **68 satellites/day** for a year—that’s today’s total.  
+  - *Dark humor:* "After 173 days, we’d just be launching trash. Happy Earth Day!"  
+
+---
+
+### **3. How Satellites Die (and Why It Matters)**  
+- **Satellite lifespan:**  
+  - **TAS (Europe):** ~20 years (handcrafted "Rolls-Royce" satellites).  
+  - **Starlink (USA):** ~5 years (cheap, mass-produced "space junk food").  
+  - *Zinger:* "Europe builds Ferraris; others print disposable satellites on Wish.com."  
+- **Death causes:**  
+  - Fuel depletion, mechanical failure, space debris hits.  
+
+---
+
+### **4. The Afterlife of Satellites: 3 Terrible Options**  
+1. **Burn in the atmosphere:**  
+   - **Problem:** Releases ozone-eating aluminum oxide (e.g., Starlink: 120 satellites/month = 30kg/satellite → 8x ozone damage since 2016).  
+   - *Joke:* "Musk’s satellites: great for internet, bad for breathing."  
+2. **Graveyard orbit:**  
+   - Temporary fix. Soon, it’ll be a cosmic junkyard.  
+3. **Abandon in place:**  
+   - Creates zombie satellites—space debris haunting future missions.  
+
+---
+
+### **5. Solutions: From Sci-Fi Dreams to Reality**  
+- **Active debris removal:**  
+  - **Space sweepers:** Robotic janitors with claws/nets (TAS/Airbus prototypes).  
+  - **Space harpoons:** "Fishing for trash" in orbit (early testing).  
+- **Controversial fixes:**  
+  - Anti-satellite missiles: "Effective? Yes. Eco-friendly? Hard no."  
+- **The future:**  
+  - Reusable satellites, stricter regulations, global collaboration.  
+
+---
+
+### **6. Conclusion: Don’t Let Space Become a Landfill**  
+- **Key takeaway:**  
+  - We need sustainable satellite design AND cleanup tech.  
+  - *Call to action:* "If we can put humans on the Moon, we can clean up our mess."  
+- **Final joke:** "Next time you binge Netflix via satellite… thank a space janitor!"  
+
+---
+
+### **Why This Structure Works:**  
+1. **Engaging flow:** Starts personal → builds urgency → explains problems → offers solutions.  
+2. **Humor:** Makes technical topics relatable without undermining seriousness.  
+3. **Contrasts:** TAS vs. Starlink, old vs. new space, problem vs. solution.  
+4. **Memorable analogies:** "Space junk food," "cosmic junkyard," "zombie satellites."  
+
+--- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+### **Title: Space Trash: How We’re Cluttering the Final Frontier (and What We Can Do About It)**
+
+---
+
+### **1. Introduction: From Starry-Eyed Kid to Satellite Developer** 
+
+Hello everyone, my name is Guilhem Desarcy-Lemiere, and I’m thrilled to be here today to talk about a topic that’s near and dear to my heart: **satellite waste**. But first, let me share a bit about myself, and the reason of this subject. So i'm currently in an apprenticeship at Thales Alenia Space, at Toulouse, as a fullstack developper. I'm - sadly - not working directly on the satellite, i'm more on the "worker" part of the enterprise, developping solutions for the company's worker to help them everyday to do their work. And working on this kind of enterprise was a childhood dream, because i've always been fascinated by the stars, the planets, and everything else. So, when i had the opportunity to work for a company that is specialized in the aerospace industry, i took it. And now, i'm here, talking to you about the satellite waste, and how does the company manage the whole lifecycle of a satellite. What's a life ahah !
+
+To be more serious, the reason of this subject is because the space is getting more and more crowded, the satellites are multiplying like rabbits, and... we're running out of space. Literally. So, let's talk about it.
+
+*Joke:* "Why did the satellite go to therapy? It had low orbit self-esteem!"
+---
+
+### **2. The Problem: Space is a Crowded Parking Lot**  
+
+So let's trace back the history a little bit, because this problem isn't something recent, it's something that was predicted even before the industrialization of the satellite as we know. In fact, it was in 1961, that E. E. Peterkin, a U.S. Naval Research Laboratory researcher, predicted that the catalogued population of objects in space would grow by 318 objects per year. This was the earliest source i could find about satellite waste, and trust me, i tried to look at earlier one's. But it's not the only one of course, as in 1978, NASA scientist Donald J. Kessler, warned that collisions could create a chain reaction, generating so much debris that certain orbits would become unusable. We call this the **Kessler Syndrome**. To put some kind of analogy here, let's imagine that space is full of cosmic bumper cars, creating endless debris. It's a very good analogy, because it's exactly what's happening. One is hitting another, creating some debris, and those debris are hitting another, creating more debris, and so on.
+
+And this syndrome isn't just some kind of theory, as it happened: in 2009, a defunct Russian satellite collided with an active American one, at the whooping speed of 26,000 mph, or 41,843 km/h in some real measurement units. This impact created over **2,000 pieces of debris**, each capable of destroying another satellite. The size of them were from 10 cm to 1 cm, and even a 1 cm fragment can hit with the force of a hand grenade. Those debris where so dangerous that the International Space Station had to perform **32 emergency maneuvers** to avoid collisions. Usually, they have to perform 2 or 3 per year, but this time, it was 32. 
+
+And there is, of course, a cost behind those maneuvers, and it's not a small one. It's about 600 000 dollars per maneuver, and it's not a small amount of money. But it's not just about the money, it's about the risk that those debris are posing to the astronauts, and to the station. 
+
+Sadly, it's not always possible to predict and to avoid all those debris in space, as we can remember, in 2021, that a debris strike punched a hole in the International Space Station’s robotic arm. Imagine that hitting a crewed module. So, it's not just a theory, it's a real problem, and it's a problem that we have to address, and that we have to solve. 
+
+But why should this matter to *you*? Well, space debris doesn’t just threaten astronauts. It risks disrupting the satellites that power your smartphone’s GPS, streaming services, and even disaster response systems. 
+
+Before continuing, i would like to ask you a question: how many satellite are there, above us ? Think of a number, is that 1,000 ? Nah, not enough. Is that 10,000 ? Not enough also. It's actually 25,000.
+
+In today's reality, there is about 25,000 objects in orbit: 11,884 of them are active, while 13,116 are dead satellites or debris.
+
+I know that the human brain cannot process this kind of big datas, it's kinda impossible for us to visualize it. So let's imagine, an alternate reality: humanity is working in team, there is no Big Bad Evil Guy, everyone is friendly and so on. The 1st of January 2025 mark the date that space is now accessible to us: we can send satellites, humans or anything there. If in this reality, in 2026 they would have hitted the 25 000 satellites, it would mean that they had to achieve some kind of amazing performance: they would have to send 68 satellites each day to space. And to put it into perspective, after 173 days, they would have already sent all of the working satellites that are above us. So after 173 days, we'd just be launching trash... Happy Earth Day! Bravo the ecologist ahah.
+
+  - *Dark humor:* "After 173 days, we’d just be launching trash. Happy Earth Day!"  
+
+
+### **3. How Satellites Die (and Why It Matters)**  
+
+Let’s break down a satellite’s lifecycle. It begins with a **launch**—a fiery ride atop a rocket to its designated orbit. Once there, it might spend 5 to 20 years providing services like weather monitoring, telecommunications, or Earth observation. And we could just have summed up the life of a satellite in one sentence: it's born, it's working, and it's dying. But it's not that simple, because there is a lot of things that are happening during those 5 to 20 years.
+
+I'd like at first, to talk about the current industry, because, as someone who work directly in this, i think it's vital to talk about it. There is 3 majors pole in the satellite industry: the European one, the American one, and the Chinese one. And each of them have their own way of working, and their own way of thinking. In Europe, we are still doing satellite the old fashionned way: it's handcrafted by master in their domain, each piece is unique, done only for this satellite and this mission. It's like a work of art, personalized for each mission... We can say it's handcrafted "Rolls-Royce" satellites.
+While in USA - and China by extension - they are doing it in a very different way. They are mass-producing satellites, they are sending them in great quantities, and they are not thinking about the afterlife of the satellite. It's more industrialized, bad and they try to seek to make it the cheapest way possible, without even thinking about the afterlife of the satellite. It's like they are sending cheap space garbage, in great quantities, so that if it's not working, it's not a big deal, they have 1000 others. It's a very different way of thinking, and it's a very different way of working. It's more industrialized, bad and they try to seek to make it the cheapest way possible, without even thinking about the afterlife of the satellite.
+
+Sadly, the spatial industry is more rewarding the industry way, more than the qualified and more handcraft way. That's why European constructor, such as Thales Alenia Space, and Airbus, are trying to move to a new way of working, with constellations and more a mass production, with adaptable satellites that can easily do the work for diverse missions.
+
+We can summup as something like... Europe builds Ferraris; other print disposable satellites on Wish.com.
+
+
+
+### **4. The Afterlife of Satellites: 3 Terrible Options**  
+
+Now that we have talked about the life of a satellite, let's talk a bit more about their death !
+
+Of course, satellite can dies from a lot of way. It can go to fuel depletion, mechanical failure, electronic failure, solar flares, spatial radiations, space debris hits, and way more. But the most common way for a satellite to die is the fuel depletion. Satellites need fuel to maintain their orbit. Once it’s gone, they drift uncontrollably. For example, in 2019, the European Space Agency's Aeolus satellite, which was launched in 2018, was about to run out of fuel. The satellite was designed to last 3 years, but it was still working after 3 years, and it was still working after 4 years. But it was about to run out of fuel, and it was about to die. So, the ESA had to perform a maneuver to deorbit the satellite, and to avoid any collision with other satellite. It was a very dangerous maneuver, because the satellite was still working, and it was still sending datas. But it was a necessary maneuver, because if they didn't do it, the satellite would have died, and it would have become a dangerous space debris.
+
+There is 3 main way to manage the natural death of a satellite: either they are burned while being sent to atmosphere, either they are sent to the Graveyard orbit, and either they are just... abandonned in place.
+
+In the first case, even if it seems to be a great solution, quick and easy, it reveal to be maybe one of the worse for the earth atmosphere. It's to just, send back the satellite to the earth, and when it will begin to enter our atmosphere, with the speed, the friction will make it burn, and it will disappear, in a tiny powder, so tiny that no one could ever see it with the naked eye. The problem here, is invisible: when burning, it releases some devastating ozone eating aluminum oxide. For example, it have been found that currently, musk satellites are raining out of orbit at a rate of 120 per month and each one produce 30 kg of aluminium oxide which eat away at the ozone layer and these oxides have increased 8 folds in the atmosphere since 2016. Just this information is catastrophic, and it's just about Starlink satellites ! So if we are thinking of all of them... it's sure that satellite are dealing some heavy and unprecedented damage to the ozone layers. By the way, quick fun fact: there is not enough Starlink satellites that are sent back to space to compensate their actual raining rate.
+
+Anyway, it's not a good solution, and it's not a solution at all, because it's just doing nothing. It's just sending back the satellite to the earth, and it's just creating some more problems. So let's take a look at the second solution. The graveyard orbit is a region of space that is far enough away from Earth that it is unlikely to interfere with active satellites or other space missions. However, it is not a permanent solution, as this orbit will be soon overcrowded and causing more damage than it's supposed to prevent. It's a temporary fix, and it's not a solution at all. It's just delaying the problem, and it's just creating more problems. 
+
+The third solution is the worst of all. It's to just abandon the satellite. Today, over **36,000 pieces of debris** larger than 10 cm are zipping around Earth. this is a disaster.
+
+1. **Burn in the atmosphere:**  
+   - **Problem:** Releases ozone-eating aluminum oxide (e.g., Starlink: 120 satellites/month = 30kg/satellite → 8x ozone damage since 2016).  
+   - *Joke:* "Musk’s satellites: great for internet, bad for breathing."  
+2. **Graveyard orbit:**  
+   - Temporary fix. Soon, it’ll be a cosmic junkyard.  
+3. **Abandon in place:**  
+   - Creates zombie satellites—space debris haunting future missions.  
+
+---
+
+### **5. Solutions: From Sci-Fi Dreams to Reality**  
+- **Active debris removal:**  
+  - **Space sweepers:** Robotic janitors with claws/nets (TAS/Airbus prototypes).  
+  - **Space harpoons:** "Fishing for trash" in orbit (early testing).  
+- **Controversial fixes:**  
+  - Anti-satellite missiles: "Effective? Yes. Eco-friendly? Hard no."  
+- **The future:**  
+  - Reusable satellites, stricter regulations, global collaboration.  
+
+---
+
+### **6. Conclusion: Don’t Let Space Become a Landfill**  
+- **Key takeaway:**  
+  - We need sustainable satellite design AND cleanup tech.  
+  - *Call to action:* "If we can put humans on the Moon, we can clean up our mess."  
+- **Final joke:** "Next time you binge Netflix via satellite… thank a space janitor!"  
+
+---
+
+### **Why This Structure Works:**  
+1. **Engaging flow:** Starts personal → builds urgency → explains problems → offers solutions.  
+2. **Humor:** Makes technical topics relatable without undermining seriousness.  
+3. **Contrasts:** TAS vs. Starlink, old vs. new space, problem vs. solution.  
+4. **Memorable analogies:** "Space junk food," "cosmic junkyard," "zombie satellites."  
+
+--- 
+
+
