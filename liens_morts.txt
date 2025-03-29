@@ -1,0 +1,18 @@
+https://docs.publicnow.com/viewDoc.aspx?filename=28409%5CEXT%5C03AE5C659651974F065A9E0E0FF211A34410C82E_37B8089FA1E8E09A3413FEA1BB780CCE69FEE44A.PDF // HTTP 403
+https://www.perplexity.ai/finance/HO.PA // HTTP 403
+https://earth.esa.int/living-planet-symposium-2022-presentations/23.05.Monday/H1-01/1540-1720/04_B904_Maingam.pdf // HTTP 404
+https://www.faa.gov/about/office_org/headquarters_offices/ast/media/treaty_Princi_Gov_Acti_States_OST.pdf // HTTP 403
+https://www.jss.fr/article-m.awp?P1=4658.awp // HTTPSConnectionPool(host='www.jss.fr', port=443): Max retries exceeded with url: /article-m.awp?P1=4658.awp (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000015820C12FD0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+https://pubs.aip.org/aip/acp/article-pdf/doi/10.1063/1.4982368/7612625/020003_1_online.pdf // HTTP 403
+https://www.mdpi.com/2079-6412/8/8/262 // HTTP 403
+https://www.mdpi.com/2079-6412/13/1/13 // HTTP 403
+https://webbtelescope.org/news/webb-science-writers-guide/telescope-overview // HTTP 403
+https://nextspaceflight.com/rockets/3 // HTTPSConnectionPool(host='nextspaceflight.com', port=443): Read timed out. (read timeout=10)
+https://www.capterra.fr/reviews/151391/kantree // HTTP 403
+https://www.challenges.fr/entreprise/aeronautique/satellites-ses-le-gros-coup-de-thales-alenia-space_789569 // HTTP 403
+https://journals.sagepub.com/doi/10.1177/14644207241269558 // HTTP 403
+https://research.tue.nl/files/296070622/he_Reflectivity_of_Materials_for_Radio_Telescope_and_Space_Antenna_Applications_Antenna_reflector_loss_needs_to_be_known_for_many_specific_antenna_applications.pdf // HTTP 403
+https://research.aalto.fi/files/39063531/ELEC_Nyman_Coatings_on_Metals_and_Plastics_for_Lunar_Habitats_and_Equipment.pdf // HTTP 403
+https://osf.io/dm98f/download/?format=pdf // HTTPSConnectionPool(host='mfr.osf.io', port=443): Read timed out. (read timeout=10)
+https://careers.thalesgroup.com/de/de/job/R0260772/Head-of-Manufacturing // HTTP 410
+https://coewww.rutgers.edu/~benaroya/publications/Ruess%20et%20al%20ASCE%20JAE.pdf // HTTPSConnectionPool(host='coewww.rutgers.edu', port=443): Max retries exceeded with url: /~benaroya/publications/Ruess%20et%20al%20ASCE%20JAE.pdf (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000015820C111D0>, 'Connection to coewww.rutgers.edu timed out. (connect timeout=10)'))
