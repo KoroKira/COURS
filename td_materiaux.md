@@ -93,3 +93,5 @@
 
 #### **Après \(T_p - \epsilon\)** :  
 - **Phase unique** : β (composition homogène).  
+
+On a du péridectique, donc on a une phase liquide qui se transforme en une phase solide et une autre phase solide.
