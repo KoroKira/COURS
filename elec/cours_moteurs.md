@@ -227,3 +227,123 @@ P_{em} = 208 \times 15 = 3120 \, \text{W}
 ![Excitation coupling of DC motors](img/info25.png)
 ![Excitation coupling of DC motors](img/info26.png)
 ![Excitation coupling of DC motors](img/info27.png)
+
+
+---
+---
+---
+
+# AC motors - induction motors
+
+Un peu d’histoire …
+Moteur asynchrone ou « moteur d’induction »
+inventé par Nikola Tesla vers 1890 aux USA
+❖ Machine alternative tournante
+❖ Robuste, économique, facile d’entretien
+❖ ~70 % des moteurs utilisés (industrie)
+❖ Plage de puissance : 100 W à 25 MW
+❖ Variation de vitesse par variateur de fréquence
+Principalement utilisé pour des applications d’entrainements à vitesse constante, il est
+possible de l’utiliser pour de la variation de vitesse en utilisant des alimentations
+électroniques de puissance à fréquence variable.
+
+Ex d’applications : pompes, ventilateurs, compresseurs,…
+
+![AC motors - induction motors](img/info28.png)
+![AC motors - induction motors](img/info29.png)
+
+---
+
+# Composition d’un moteur asynchrone
+
+![Composition d’un moteur asynchrone](img/info30.png)
+![Composition d’un moteur asynchrone](img/info31.png)
+
+---
+
+# Champs tournants
+
+![Champs tournants](img/info32.png)
+![Champs tournants](img/info33.png)
+![Champs tournants](img/info34.png)
+![Champs tournants](img/info35.png)
+![Champs tournants](img/info36.png)
+![Champs tournants](img/info37.png)
+![Champs tournants](img/info38.png)
+![Champs tournants](img/info39.png)
+
+---
+
+# Composition du rotor
+
+![Composition du rotor](img/info40.png)
+
+---
+
+# Interaction stator/rotor
+
+![Interaction stator/rotor](img/info41.png)
+![Interaction stator/rotor](img/info42.png)
+
+---
+
+# Notions de glissement
+
+![Notions de glissement](img/info43.png)
+![Notions de glissement](img/info44.png)
+
+Au démarrage, glissement = 1
+glissement évolue entre 0.02 et 0.05 de nS
+autre truc que j'ai pas pu noter
+
+
+---
+
+# Nb poles Vs. Vitesse de synchronisme
+
+![Nb poles Vs. Vitesse de synchronisme](img/info45.png)
+3000 / 1500 / 750
+
+---
+
+# Schéma equivalent monophase MAS
+
+![Schéma equivalent monophase MAS](img/info46.png)
+![Schéma equivalent monophase MAS](img/info47.png)
+![Schéma equivalent monophase MAS](img/info48.png)
+
+---
+
+# Bilan de puissance
+
+![Bilan de puissance](img/info49.png)
+![Bilan de puissance](img/info50.png)
+
+---
+
+# Fonctionnement à tension/fréquence cst
+
+![Fonctionnement à tension/fréquence cst](img/info51.png)
+
+---
+
+# Caractéristique couple/vitesse
+
+![Caractéristique couple/vitesse](img/info52.png)
+![Caractéristique couple/vitesse](img/info53.png)
+
+---
+
+# Démarrage direct de la MAS
+
+![Démarrage direct de la MAS](img/info54.png)
+![Démarrage direct de la MAS](img/info55.png)
+![Démarrage direct de la MAS](img/info56.png)
+
+---
+
+# Variation de vitesse de la MAS
+
+![Variation de vitesse de la MAS](img/info57.png)
+![Variation de vitesse de la MAS](img/info58.png)
+![Variation de vitesse de la MAS](img/info59.png)
