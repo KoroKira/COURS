@@ -76,7 +76,14 @@ for i in range (0, len(arr2)):
     print(arr2[i], end=" ")
     
 # This code copies elements from one array to another array.
+# alternate & more optimized code
 
+arr1 = [1, 2, 3, 4, 5]
+arr2 = arr1.copy()
+print("Elements of arr2:")
+for i in range (0, len(arr2)):
+    print(arr2[i], end=" ")
+# This code copies elements from one array to another using the copy() method.
 
 
 # Exo 6
