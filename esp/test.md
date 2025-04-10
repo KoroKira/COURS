@@ -154,11 +154,11 @@ Hola, soy Guilhem Desarcy-Lemiere, un ingeniero francés que ha decidido marchar
 
 "Afganistán será una franquicia social. Crowdfunding con historias de niños y alianzas con universidades. Contrataré a 2 técnicos locales este año (un amputado y una ingeniera) para escalar operaciones." 
 
-1. Impacto social  
-   - ¿Cómo mides el impacto real de tus prótesis en niños víctimas de guerra?  
-   - ¿Por qué desarrollar prótesis de 6 extremidades ("niño araña")? ¿Cómo se alinea con tu misión social?  
+**1. Impacto social**  
+- **¿Cómo mides el impacto real de tus prótesis en niños víctimas de guerra?**  
+- **¿Por qué desarrollar prótesis personalizadas para casos complejos? ¿Cómo contribuyen a tu misión social?**  
 
-"Mido éxito con testimonios en video, encuestas a familias y datos médicos. Las prótesis de 6 extremidades son para casos graves, como Ali, un niño que ahora puede jugar gracias a un diseño modular inspirado en insectos." 
+"Evaluamos el impacto a través de testimonios en video, encuestas a las familias y seguimiento médico. Las prótesis personalizadas están diseñadas para casos graves, como el de Ali, un niño que recuperó movilidad y autonomía gracias a un sistema modular adaptable."
 
 1. Sostenibilidad a largo plazo  
    - Tu política de vacaciones es muy flexible. ¿Cómo evitas interrupciones en la producción?  
