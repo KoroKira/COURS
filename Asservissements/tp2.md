@@ -32,10 +32,6 @@ La réponse en régime permanent est une exponentielle :
 3. Déterminer \( T_m \) : temps pour atteindre \( 63\% \) de la valeur finale.  
 4. Calculer \( k_m = \frac{\omega_{\infty}}{6} \).  
 
-**Exemple :**  
-Si \( \omega_{\infty} = 3 \, \text{rad/s} \), alors \( k_m = 0.5 \, \text{rad·s}^{-1}\text{·V}^{-1} \).  
-Si \( T_m = 0.2 \, \text{s} \), le modèle Simulink doit correspondre à la réponse expérimentale.
-
 ---
 
 ## **2. Correction proportionnelle**
@@ -53,6 +49,7 @@ Simplification :
 ### **2.2 Stabilité**  
 Le système est **toujours stable** pour \( K > 0 \), car le pôle est :  
 \[ p = -\frac{1 + K k_m}{T_m} < 0 \].  
+
 
 ---
 

@@ -134,6 +134,8 @@ Interview: Nicolas (Responsable Financiero) entrevista a Guilhem (emprendedor en
 
 Faire courte présentation de qui je suis/ma boite
 
+Hola, soy Guilhem Desarcy-Lemiere, un ingeniero francés que ha decidido marcharse al extranjero para vivir una aventura humana. Soy el fundador de Recycl'Handi, una empresa social innovadora que fabrica prótesis personalizadas de plástico reciclado para víctimas de la guerra en Somalia. Mi objetivo es devolver la esperanza y la movilidad a las personas afectadas por conflictos armados, promoviendo al mismo tiempo la sostenibilidad medioambiental. Trabajo sola en un taller de Mogadiscio, donde diseño y fabrico prótesis adaptadas a las necesidades específicas de cada paciente. Mi proyecto nació del deseo de transformar los residuos plásticos en soluciones prácticas para mejorar la vida de las personas discapacitadas en un país donde los recursos son limitados.
+
 1. Modelo económico  
    - Con un salario de 3.000 USD/mes y un costo de vida de 700 USD, ¿cómo financias los costos de producción (impresión 3D, reciclaje)?  
    - ¿Cuáles son tus fuentes de ingresos actuales (venta de prótesis, subvenciones, etc.)?  
