@@ -1,0 +1,169 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[french]{babel}
+\usepackage{amsmath, amssymb, mathtools}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{multicol}
+\usepackage{fancyhdr}
+\usepackage{tcolorbox}
+
+\geometry{margin=1.5cm}
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Fiche Laplace \& EDO}
+\lhead{Examen}
+\cfoot{\thepage}
+
+\title{\textbf{Fiche de Révision – Transformée de Laplace \& Équations Différentielles}}
+\date{}
+\author{}
+
+\begin{document}
+\maketitle
+
+\begin{multicols}{2}
+
+\section*{\textcolor{blue}{🔷 Formules essentielles – Table de Laplace}}
+
+\begin{tabular}{|c|c|}
+\hline
+\( f(t) \) & \( \mathcal{L}\{f(t)\} \) \\
+\hline
+\( 1 \) & \( \frac{1}{p} \) \\
+\( t \) & \( \frac{1}{p^2} \) \\
+\( t^n \) & \( \frac{n!}{p^{n+1}} \) \\
+\( e^{at} \) & \( \frac{1}{p - a} \) \\
+\( \sin(at) \) & \( \frac{a}{p^2 + a^2} \) \\
+\( \cos(at) \) & \( \frac{p}{p^2 + a^2} \) \\
+\( \sinh(at) \) & \( \frac{a}{p^2 - a^2} \) \\
+\( \cosh(at) \) & \( \frac{p}{p^2 - a^2} \) \\
+\hline
+\end{tabular}
+
+\vspace{0.5em}
+\section*{\textcolor{blue}{🔁 Transformées des dérivées}}
+
+\[
+\mathcal{L}\{y'\} = pY(p) - y(0), \quad
+\mathcal{L}\{y''\} = p^2Y(p) - py(0) - y'(0)
+\]
+
+\section*{\textcolor{blue}{🛠️ Méthode générale}}
+
+\begin{itemize}
+  \item Appliquer la transformée de Laplace à l'équation
+  \item Insérer les conditions initiales
+  \item Isoler \( Y(p) \)
+  \item Décomposer en éléments simples
+  \item Inverser avec la table
+\end{itemize}
+
+\section*{\textcolor{blue}{🧮 Intégrales généralisées}}
+
+\[
+\int_0^{+\infty} f(t)e^{-at} dt = \mathcal{L}\{f(t)\} \Big|_{p = a}
+\]
+
+\vspace{0.5em}
+\section*{\textcolor{blue}{📘 Exercices types}}
+
+\subsection*{✅ Exercice 1 – EDO 1er ordre}
+
+\[
+y' + 2y = 3,\quad y(0) = 1
+\Rightarrow Y(p) = \frac{3 + p}{p(p + 2)}
+\Rightarrow y(t) = \frac{3}{2} - \frac{1}{2}e^{-2t}
+\]
+
+\begin{tcolorbox}[colback=blue!5!white]
+\[
+\boxed{y(t) = \frac{3}{2} - \frac{1}{2}e^{-2t}}
+\]
+\end{tcolorbox}
+
+\subsection*{✅ Exercice 2 – EDO 2ème ordre}
+
+\[
+y'' - 2y' - 8y = 0,\quad y(0) = 0,\; y'(0) = 1
+\Rightarrow Y(p) = \frac{1}{(p - 4)(p + 2)} 
+\Rightarrow y(t) = \frac{1}{6}e^{4t} - \frac{1}{6}e^{-2t}
+\]
+
+\begin{tcolorbox}[colback=blue!5!white]
+\[
+\boxed{y(t) = \frac{1}{6}e^{4t} - \frac{1}{6}e^{-2t}}
+\]
+\end{tcolorbox}
+
+\subsection*{✅ Exercice 3 – Intégrale par Laplace}
+
+\[
+I = \int_0^{+\infty} \sin(4t)e^{-3t} dt = \mathcal{L}\{\sin(4t)\}|_{p = 3} = \frac{4}{25}
+\]
+
+\begin{tcolorbox}[colback=blue!5!white]
+\[
+\boxed{I = \frac{4}{25}}
+\]
+\end{tcolorbox}
+
+\subsection*{✅ Exercice 4 – Sinus}
+
+\[
+y'' + 4y = 0,\quad y(0) = 0,\quad y'(0) = 1
+\Rightarrow Y(p) = \frac{1}{p^2 + 4} 
+\Rightarrow y(t) = \frac{1}{2} \sin(2t)
+\]
+
+\begin{tcolorbox}[colback=blue!5!white]
+\[
+\boxed{y(t) = \frac{1}{2} \sin(2t)}
+\]
+\end{tcolorbox}
+
+\subsection*{✅ Exercice 5 – Fonction \( \cosh(t) \)}
+
+\[
+y(t) = \cosh(t) = \frac{e^t + e^{-t}}{2}
+\Rightarrow y'' = y
+\]
+
+\begin{tcolorbox}[colback=blue!5!white]
+\[
+\boxed{y'' = y}
+\]
+\end{tcolorbox}
+
+\subsection*{✅ Exercice 6 – Système différentiel}
+
+\[
+\begin{cases}
+x' = x - y \\
+y' = -x + y
+\end{cases} \quad x(0) = y(0) = 1
+\Rightarrow x(t) = y(t) = 1
+\]
+
+\begin{tcolorbox}[colback=blue!5!white]
+\[
+\boxed{x(t) = y(t) = 1}
+\]
+\end{tcolorbox}
+
+\subsection*{✅ Exercice bonus – EDO mixte}
+
+\[
+4y' - y = 1,\quad y(0) = 1
+\Rightarrow Y(p) = \frac{1 + 4p}{p(4p - 1)}
+\Rightarrow y(t) = -1 + e^{\frac{1}{4}t}
+\]
+
+\begin{tcolorbox}[colback=blue!5!white]
+\[
+\boxed{y(t) = -1 + e^{\frac{1}{4}t}}
+\]
+\end{tcolorbox}
+
+\end{multicols}
+\end{document}
