@@ -1,5 +1,15 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# Comment faire un venv
+# 1. Créer un environnement virtuel: python3 -m venv mon_env
+# 2. Activer l'environnement virtuel:
+#    - Sur Windows: mon_env\Scripts\activate
+#    - Sur macOS/Linux: source mon_env/bin/activate
+# 3. Installer les dépendances: pip install -r requirements.txt
+# 4. Désactiver l'environnement virtuel: deactivate
+# -*- coding: utf-8 -*-
+# Comment créer un fichier requirements.txt
+# 1. Créer un fichier requirements.txt avec la liste des dépendances avec la commande pip freeze > requirements.txt
 
 import geocoder
 from pyfiglet import Figlet 
@@ -62,3 +72,4 @@ if __name__ == "__main__":
     
     main()
 
+# Comment lancer ce fichier dans le terminal ? Entrer la commande: python3 TD-3-IOT.py
